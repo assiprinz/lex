@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>loot</title>
+    <link href="https://fonts.googleapis.com/css?family=Exo+2:300,400,500,600" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <div id="console" class="bg">
+
+    </div>
+    <div id="roll-container">
+        <label class="durlbl" for="dur">min/run</label><input class="bg" id="dur" type="text" value="15" />
+        <a class="bg button" id="roll" onclick="lex.start();"><span class="hint">F</span><span id="quote">Start Grinding</span></a>
+        <a class="bg button" id="reset" onclick="lex.reset();"><span class="hint">R</span><span id="quote">Reset</span></a>
+        <!-- <span class="currency"><img src="img/cr.png" /><span id="cr">0</span></span> -->
+        <span class="currency"><img src="img/pxc.png" /><span id="pxc">0</span></span>
+    </div>
+    <div id="disclaimer">
+        This little site is only for entertainment purposes and in no way associated with or endorsed by Massive Entertainment or Ubisoft. See the <a href="https://janeberl.de/impressum/">imprint of the TLD</a> for Info.
+    </div>
+    <!-- <div id="holder"></div> -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script>
+    <script src="js/mousetrap.js" charset="utf-8"></script>
+    <script src="js/loadJSON.js" charset="utf-8"></script>
+    <script src="js/Lexington.js" charset="utf-8"></script>
+</body>
+</html>

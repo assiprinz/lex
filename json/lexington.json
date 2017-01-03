@@ -1,0 +1,288 @@
+[
+    {
+        "id": "Common Pool I",
+        "dropChance": 100,
+        "pool": [
+            {
+                "type": "SMG",
+                "cat": "weapon",
+                "weight": 95
+            },
+            {
+                "type": "Shotgun",
+                "cat": "weapon",
+                "weight": 95
+            },
+            {
+                "type": "Marksman Rifle",
+                "cat": "weapon",
+                "weight": 95
+            },
+            {
+                "type": "Assault Rifle",
+                "cat": "weapon",
+                "weight": 95
+            },
+            {
+                "type": "LMG",
+                "cat": "weapon",
+                "weight": 95
+            },
+            {
+                "type": "Back",
+                "cat": "gear",
+                "subcat": "GEAR_PACK",
+                "weight": 100
+            },
+            {
+                "type": "Generated Chest",
+                "cat": "gear",
+                "subcat": "GEAR_VEST",
+                "weight": 100
+            },
+            {
+                "type": "Generated Thighs",
+                "cat": "gear",
+                "subcat": "GEAR_HOLSTER",
+                "weight": 100
+            },
+            {
+                "type": "Generated Knees",
+                "cat": "gear",
+                "subcat": "GEAR_PADS",
+                "weight": 100
+            },
+            {
+                "type": "Generated Hands",
+                "cat": "gear",
+                "subcat": "GEAR_GLOVES",
+                "weight": 100
+            },
+            {
+                "type": "Generated Face",
+                "cat": "gear",
+                "subcat": "GEAR_MASK",
+                "weight": 100
+            },
+            {
+                "type": "Gear Set",
+                "cat": "setgear",
+                "weight": 280
+            }
+        ]
+    },
+    {
+        "id": "Common Pool V",
+        "dropChance": 100,
+        "pool": [
+            {
+                "type": "Pistol",
+                "cat": "weapon",
+                "weight": 2133
+            },
+            {
+                "type": "Firing Spring",
+                "cat": "weaponmod",
+                "weight": 400
+            },
+            {
+                "type": "Extended Magazine",
+                "cat": "weaponmod",
+                "weight": 400
+            },
+            {
+                "type": "Heavy Mag",
+                "cat": "weaponmod",
+                "weight": 400
+            },
+            {
+                "type": "Compact Magazine",
+                "cat": "weaponmod",
+                "weight": 400
+            },
+            {
+                "type": "Acog Scope",
+                "cat": "weaponmod",
+                "weight": 100
+            },
+            {
+                "type": "Elcan Scope",
+                "cat": "weaponmod",
+                "weight": 100
+            },
+            {
+                "type": "MK5 Scope",
+                "cat": "weaponmod",
+                "weight": 100
+            },
+            {
+                "type": "VX1 Scope",
+                "cat": "weaponmod",
+                "weight": 100
+            },
+            {
+                "type": "CQBSS Scope",
+                "cat": "weaponmod",
+                "weight": 100
+            },
+            {
+                "type": "Holo Scope",
+                "cat": "weaponmod",
+                "weight": 100
+            },
+            {
+                "type": "Holo Scope EXPS3",
+                "cat": "weaponmod",
+                "weight": 100
+            },
+            {
+                "type": "Micro RDS",
+                "cat": "weaponmod",
+                "weight": 100
+            },
+            {
+                "type": "Improved Iron",
+                "cat": "weaponmod",
+                "weight": 100
+            },
+            {
+                "type": "Kobra Scope",
+                "cat": "weaponmod",
+                "weight": 100
+            },
+            {
+                "type": "RDS Scope",
+                "cat": "weaponmod",
+                "weight": 100
+            },
+            {
+                "type": "Small RDS Scope",
+                "cat": "weaponmod",
+                "weight": 100
+            },
+            {
+                "type": "Reflex Sight",
+                "cat": "weaponmod",
+                "weight": 100
+            },
+            {
+                "type": "Trijicon Scope",
+                "cat": "weaponmod",
+                "weight": 100
+            },
+            {
+                "type": "Angled Grip",
+                "cat": "weaponmod",
+                "weight": 266.67
+            },
+            {
+                "type": "Laser Pointer",
+                "cat": "weaponmod",
+                "weight": 266.67
+            },
+            {
+                "type": "Laser Pointer Small",
+                "cat": "weaponmod",
+                "weight": 266.67
+            },
+            {
+                "type": "Short Grip",
+                "cat": "weaponmod",
+                "weight": 266.67
+            },
+            {
+                "type": "Tactical Grip",
+                "cat": "weaponmod",
+                "weight": 266.67
+            },
+            {
+                "type": "Vertical Grip",
+                "cat": "weaponmod",
+                "weight": 266.67
+            },
+            {
+                "type": "Compensator",
+                "cat": "weaponmod",
+                "weight": 200
+            },
+            {
+                "type": "Heavy Barrel",
+                "cat": "weaponmod",
+                "weight": 200
+            },
+            {
+                "type": "Muzzle Brake",
+                "cat": "weaponmod",
+                "weight": 200
+            },
+            {
+                "type": "Suppressor",
+                "cat": "weaponmod",
+                "weight": 200
+            },
+            {
+                "type": "Suppressor 9MM",
+                "cat": "weaponmod",
+                "weight": 200
+            },
+            {
+                "type": "Suppressor Omega",
+                "cat": "weaponmod",
+                "weight": 200
+            },
+            {
+                "type": "Suppressor Osprey",
+                "cat": "weaponmod",
+                "weight": 200
+            },
+            {
+                "type": "Vent Brake",
+                "cat": "weaponmod",
+                "weight": 200
+            },
+            {
+                "type": "Bonus Gear Mod",
+                "cat": "gearmod",
+                "weight": 2133
+            },
+            {
+                "type": "Skill Gear Mod",
+                "cat": "perfmod",
+                "weight": 2133
+            }
+        ]
+},
+{
+    "id": "Common Pool IV",
+    "dropChance": 100,
+    "pool": [
+        {
+            "type": "Gear Set",
+            "cat": "setgear",
+            "weight": 100
+        }
+    ]
+},
+{
+    "id": "Weapon Skin / Showstopper / Barrett's Vest",
+    "dropChance": 17,
+    "pool": [
+        {
+            "type": "Weapon Skin",
+            "cat": "skin",
+            "weight": 100
+        },
+        {
+            "type": "Showstopper",
+            "cat": "weapon",
+            "weight": 7
+        },
+        {
+            "type": "Barrett's Vest",
+            "cat": "gear",
+            "subcat": "GEAR_VEST",
+            "weight": 7
+        }
+    ]
+}
+]
